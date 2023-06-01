@@ -1,0 +1,1 @@
+The code for "All in a Row: Compressed Convolution Networks for Graphs" will be released soon.
