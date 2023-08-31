@@ -1,0 +1,6 @@
+numpy==1.24.2
+pandas==2.0.0
+scikit_learn==1.2.2
+torch==2.0.0+cu117.with.pypi.cudnn
+torch_geometric==2.3.0
+tqdm==4.65.0
