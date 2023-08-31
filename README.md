@@ -3,6 +3,7 @@
 
 This is the official implementation of [All in a Row: Compressed Convolution Networks for Graphs (ICML2023)](https://proceedings.mlr.press/v202/sun23k.html).
 
+![CoCN Highlight](highlight.png)
 
 # Preparation
 ## Requirements
