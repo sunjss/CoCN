@@ -1,4 +1,7 @@
-This is the official implementation of General CoCN.
+Compressed Convolution Networks for Graphs (CoCN)
+---
+
+This is the official implementation of General CoCN for `Compressed Convolution Networks on Graphs`.
 
 ![CoCN Highlight](../highlight.png)
 
@@ -43,6 +46,7 @@ The datasets are organized as:
 
 ```bash
 python train.py  --cuda_num 'CUDA_VISIBLE_DEVICE' --nbatch 1 --testmode 'path/to/export/dir' --dataset 'CORNELL' --lr 1e-4 --epoch 500 --nTlayer 0 --nlayer 1 --nblock 3 --filter_size 5 --stride 5 --nh 10 --d_model 128 --dropout 0.5
+python train_for_topk.py  --cuda_num 'CUDA_VISIBLE_DEVICE' --nbatch 1 --testmode 'path/to/export/dir' --dataset 'genius' --lr 1e-3 --epoch 500 --nTlayer 6 --nlayer 4 --nblock 1 --filter_size 5 --stride 5 --dropout 0.1 --base_size 3000 --nk 8
 ```
 
 - Train with script
