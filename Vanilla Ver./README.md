@@ -1,7 +1,7 @@
-[ICML2023] All in a Row: Compressed Convolution Networks for Graphs (CoCN)
+[ICML 2023] All in a Row: Compressed Convolution Networks for Graphs (CoCN)
 ---
 
-This is the official implementation of [All in a Row: Compressed Convolution Networks for Graphs (ICML2023)](https://proceedings.mlr.press/v202/sun23k.html).
+This is the official implementation of [All in a Row: Compressed Convolution Networks for Graphs (ICML'2023)](https://proceedings.mlr.press/v202/sun23k.html).
 
 ![CoCN Highlight](../highlight.png)
 
