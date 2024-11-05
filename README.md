@@ -1,4 +1,4 @@
-Generalizing the Euclidean Convolution to Graphs: Compressed Convolution Networks for Graphs (CoCN)
+Generalizing the Euclidean Convolution to Graphs: Compressed Convolution Networks (CoCN)
 ---
 
 This is the official implementation for Compressed Convolution Networks (CoCN), a general backbone for graph representation learning.
